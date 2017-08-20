@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("Pierwsza wersja");
 		System.out.println("Druga wersja");
 		System.out.println("wersja 2.0");
+		System.out.println("zmiana");
 
 	}
 
