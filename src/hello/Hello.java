@@ -3,6 +3,7 @@ package hello;
 public class Hello {
 
 	public static void main(String[] args) {
+		System.out.println("chcę zrobić konflikt");
 		System.out.println("Pierwsza wersja");
 		System.out.println("Druga wersja");
 		System.out.println("wersja 2.0");
@@ -11,7 +12,7 @@ public class Hello {
 
 	}
 	
-	static int dodaj(int x, int y ){
+	public static int dodaj(int x, int y ){
 		return x+y;
 	}
  
